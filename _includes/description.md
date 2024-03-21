@@ -6,6 +6,8 @@ I earned my Master's degree in Computer Science through a double-degree program 
 
 I am currently a Visiting Research Intern at Mila, supervised by Prof. David Rolnick and Dr. Arthur Ouaknine, where I am further exploring the intersection of deep learning for forest monitoring.
 
+<br/><img src='assests/images/img.JPG'>
+
 ## Interests
 * Machine Learning/ Deep Learning
 * Hyperspectral Remote sensing
