@@ -1,4 +1,5 @@
 # Site Settings
+theme: jekyll-theme-minimal
 title: Eya Cherif
 email: cherif@informatik.uni-leipzig.de
 description: I am PhD student at the physics and geoscience faculty at Leipzig University and in my research I am working at the interface of Deep Learning and vegetation ecology with a focus on biodiversity monitoring.
@@ -6,15 +7,16 @@ url: "https://echerif18.github.io/"
 twitter_username: Eya__Cherif
 github_username:  echerif18
 logo: /assets/images/img.jpg
-# Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
+
+# # Build Settings
+# sass:
+#   sass_dir: _sass
+# include: ['_pages']
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-redirect-from
+# plugins:
+  # - jekyll-feed
+  # - jekyll-sitemap
+  # - jekyll-seo-tag
+  # - jekyll-redirect-from
