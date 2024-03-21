@@ -1,4 +1,9 @@
-{% include base_path %}
+<!-- {% include base_path %} -->
+{% if site.url %}
+  {% assign base_path = site.url | append: site.baseurl %}
+{% else %}
+  {% assign base_path = site.github.url %}
+{% endif %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
