@@ -17,8 +17,9 @@ layout: default
     <h2>Hi There!</h2>
     {% capture description %}{% include description.md %}{% endcapture %}
     {{ description | markdownify }}
-
-    {% assign publications = site.data.publications | sort: 'year' | reverse %} {% for item in site.data.publications %} {% include publication-item.html %} {% endfor %}}}
+    
+    <h2>Publications</h2>
+    {% assign publications = site.data.publications | sort: 'year' | reverse %} {% for item in site.data.publications %} {% include publication-item.html %} {% endfor %}
   </div>
 </div>
 
