@@ -10,5 +10,6 @@ logo: /assets/images/img.jpg
 sass:
   sass_dir: _sass
 include: ['_pages']
-kramdown:
-  input: GFM
+
+# Build settings
+markdown: kramdown
