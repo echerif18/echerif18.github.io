@@ -18,8 +18,7 @@ layout: default
     {% capture description %}{% include description.md %}{% endcapture %}
     {{ description | markdownify }}
 
-    {% capture publications %}{% include 03_publications.md %}{% endcapture %}
-    {{ description | markdownify }}
+    {% assign publications = site.data.publications | sort: 'year' | reverse %} {% for item in site.data.publications %} {% include publication-item.html %} {% endfor %}}}
   </div>
 </div>
 
