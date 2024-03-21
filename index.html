@@ -17,6 +17,9 @@ layout: default
     <h2>Hi There!</h2>
     {% capture description %}{% include description.md %}{% endcapture %}
     {{ description | markdownify }}
+
+    {% capture publications %}{% include 03_publications.md %}{% endcapture %}
+    {{ description | markdownify }}
   </div>
 </div>
 
