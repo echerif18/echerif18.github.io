@@ -1,9 +1,0 @@
----
-layout: page
-title: Publications
-permalink: /publications/
----
-{% assign publications = site.data.publications | sort: 'year' | reverse %}
-{% for item in site.data.publications %}
-{% include publication-item.html %}
-{% endfor %}
