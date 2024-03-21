@@ -1,8 +1,3 @@
----
-author_profile: true
----
-Hi There!
-
 I am Eya Cherif, a Ph.D. student at Leipzig University and the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI), with a joint appointment in the Remote Sensing in Geo- and Ecosystem Research team. 
 
 Under the joint supervision of Prof. Hannes Feilhauer and Prof. Teja Kattenborn, my current research is centered around the application of deep learning techniques in environmental science, with a specific focus on biodiversity monitoring using hyperspectral data. 
