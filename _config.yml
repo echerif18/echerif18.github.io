@@ -46,7 +46,7 @@ include:
 
 # Build settings
 markdown: kramdown
-# plugins:
+plugins:
   - jekyll-seo-tag
   - jekyll-coffeescript 
   - jekyll-commonmark-ghpages
