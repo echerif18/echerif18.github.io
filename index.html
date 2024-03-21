@@ -8,9 +8,14 @@ layout: default
     </figure>
 </div-->
 
-  <div class="column is-three-quarters content">
+  <!--div class="column is-three-quarters content">
     <h2> Hi There! </h2>
     I am Eya Cherif, a PhD student at Leipzig University. I am passionate about using artificial intelligence as a tool to tackle challenges for environmental applications and in my current research I am working at the interface of Deep Learning and biodiversity monitoring.
+</div-->
+  <div class="column is-three-quarters content">
+    <h1>{{ site.title }}</h1>
+    {% capture description %}{% include description.md %}{% endcapture %}
+    {{ description | markdownify }}
   </div>
 </div>
 
