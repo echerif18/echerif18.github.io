@@ -8,7 +8,7 @@ layout: default
     }
     .sidebar {
         height: 100%;
-        width: 400px;
+        width: 300px;
         position: fixed;
         top: 0;
         left: 0;
@@ -43,11 +43,11 @@ layout: default
     </div-->
     <div class="sidebar">
         <img class="avatar" src={{site.logo}} alt="Avatar">
+        <h3>{{ site.title }}</h3>
+        <h3>{{ site.location }}</h3>
         <div class="social-links">
-            <a href="#">Facebook</a>
-            <a href="#">Twitter</a>
-            <a href="#">Instagram</a>
-            <!-- Add more social media links as needed -->
+            <a href="#">{{site.author.twitter}}</a>
+            <a href="#">{{site.author.github}}</a>
         </div>
     </div>
 
