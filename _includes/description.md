@@ -1,3 +1,6 @@
+---
+author_profile: true
+---
 Hi There!
 
 I am Eya Cherif, a Ph.D. student at Leipzig University and the Center for Scalable Data Analytics and Artificial Intelligence (ScaDS.AI), with a joint appointment in the Remote Sensing in Geo- and Ecosystem Research team. 
