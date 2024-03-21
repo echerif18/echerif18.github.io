@@ -1,9 +1,9 @@
 <!-- {% include base_path %} -->
-{% if site.url %}
+<!-- {% if site.url %}
   {% assign base_path = site.url | append: site.baseurl %}
 {% else %}
   {% assign base_path = site.github.url %}
-{% endif %}
+{% endif %} -->
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
@@ -15,7 +15,7 @@
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
-          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
+          "{{ s.image | prepend: "/images/" | prepend: site.url | append: site.baseurl }}"
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
