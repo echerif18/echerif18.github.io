@@ -68,6 +68,7 @@ layout: default
     {% assign publications = site.data.publications | sort: 'year' | reverse %} {% for item in site.data.publications %} {% include publication-item.html %} {% endfor %}
 
     {% capture taks %}{% include talks.md %}{% endcapture %}
+    {{ taks | markdownify }}
   </div>
 </div>
 
