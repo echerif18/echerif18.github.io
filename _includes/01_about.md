@@ -18,5 +18,4 @@ Interest
 * Biodiversity monitoring
 
 
-Contact:
-cherif@informatik.uni-leipzig.de
+Contact: cherif@informatik.uni-leipzig.de
