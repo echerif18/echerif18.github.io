@@ -1,12 +1,55 @@
 ---
 layout: default
 ---
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+    .sidebar {
+        height: 100%;
+        width: 200px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #333;
+        padding-top: 20px;
+    }
+    .avatar {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        margin: 0 auto;
+        display: block;
+        background-color: #ccc; /* Placeholder color */
+    }
+    .social-links {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .social-links a {
+        display: block;
+        color: #fff;
+        text-decoration: none;
+        margin-bottom: 10px;
+    }
+</style>
+
 <div class="columns is-vcentered">
-    <div class="column is-one-quarter content">
+    <!--div class="column is-one-quarter content">
         <figure class="image">
           <img src={{site.logo}} width="200" height="300">
         </figure>
-      </div>
+    </div-->
+    <div class="sidebar">
+        <img class="avatar" src={{site.logo}} alt="Avatar">
+        <div class="social-links">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+            <!-- Add more social media links as needed -->
+        </div>
+    </div>
 
   <!--div class="column is-three-quarters content">
     <h2> Hi There! </h2>
