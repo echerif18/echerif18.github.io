@@ -12,7 +12,7 @@ layout: default
         position: fixed;
         top: 0;
         left: 0;
-        background-color: #333;
+        background-color: #0000FF;
         padding-top: 20px;
     }
     .avatar {
@@ -41,10 +41,11 @@ layout: default
           <img src={{site.logo}} width="200" height="300">
         </figure>
     </div-->
+    
     <div class="sidebar">
         <img class="avatar" src={{site.logo}} alt="Avatar">
-        <h3>{{ site.title }}</h3>
-        <h3>{{ site.location }}</h3>
+        <a href="#">{{ site.title }}</a>
+        <a href="#">{{ site.location }}</a>
         <div class="social-links">
             <a href="#">{{site.author.twitter}}</a>
             <a href="#">{{site.author.github}}</a>
