@@ -8,11 +8,23 @@ twitter_username: Eya__Cherif
 github_username:  echerif18
 logo: /assets/images/img.jpg
 
+# Site Author
+author:
+  name             : "Eya Cherif"
+  avatar           : "img.jpg"
+  location         : "Leipzig, Saxony, Germany"
+  googlescholar    : "https://scholar.google.com/citations?user=8PDBlOoAAAAJ&hl=en"
+  email            : "cherif[at]informatik.uni-leipzig.de"
+  researchgate     : 
+  github           : "echerif18"
+  linkedin         :
+  twitter          : "Eya__Cherif"
+
 # # Build Settings
 # sass:
 #   sass_dir: _sass
-include: 
-  - _pages
+# include: 
+  # - _pages
 
 # Build settings
 markdown: kramdown
