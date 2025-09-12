@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eya Cherif's Personal Page"
 title_separator          : "-"
 name                     : &name "Eya Cherif"
-description              : &description "Solution Architect at digatus. Graduated Master at Universität Passau and Telecommunication Engineer at SUP'COM"
+description              : # &description ""
 url                      : "https://echerif18.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/echerif18"
@@ -75,16 +75,16 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal"
+  provider               :  #"google-universal"
   google:
-    tracking_id          :  "G-GMMT2F6F8C"
+    tracking_id          :  #"G-GMMT2F6F8C"
 
 
 # Site Author
 author:
   name             : "Eya Cherif"
   avatar           : "profile.jpg"
-  bio              : "PhD reseacher"
+  bio              : "PhD researcher"
   location         : "Leipzig, Germany"
   employer         :
   pubmed           :
