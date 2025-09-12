@@ -23,8 +23,6 @@ During my Ph.D. journey, I also had the opportunity to conduct a research stay a
 
 <br><img src='/images/cover_img.jpg'><br>
 
-
-# News
 Talks
 ======
 - *08/2025*: Invited talk at the Rolnick Lab at Mila (Remote)
