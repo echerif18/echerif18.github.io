@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-Talks
-======
 - *08/2025*: Invited talk at the Rolnick Lab at Mila (Remote)
 <br>
 - *06/2024* – Invited talk at the Plant Functional Ecology Lab of the Université de Montréal (Montreal, Canada)
