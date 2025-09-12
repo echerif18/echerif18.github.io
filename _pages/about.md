@@ -21,7 +21,7 @@ As a Ph.D. candidate, I am now developing novel deep learning approaches for est
 During my Ph.D. journey, I also had the opportunity to conduct a research stay at Mila, under the supervision of Prof. David Rolnick and Dr. Arthur Ouaknine, where I contributed to a forest monitoring project.
 
 
-<br><img src='/images/cover_img.jpg'><br>
+<br><img src='/images/cover_img.png'><br>
 
 Talks
 ======
