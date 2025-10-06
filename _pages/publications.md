@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Unraveling the seasonality of functional diversity through remote sensing** 
-Mederer, D., Kattenborn, T., **Cherif, E.**, Guimaraes-Steinicke, C., Joswig, J. S., Schneider, F. D. & Feilhauer, H. (2025). 
+**Unraveling the seasonality of functional diversity through remote sensing**
+Mederer, D., Kattenborn, T., **Cherif, E.**, Guimaraes-Steinicke, C., Joswig, J. S., Schneider, F. D. & Feilhauer, H. (2025).
 *Communications Earth & Environment.*
 [[paper](https://www.nature.com/articles/s43247-025-02646-x)]
 
