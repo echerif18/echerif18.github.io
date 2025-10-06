@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Unraveling the seasonality of functional diversity through remote sensing** 
+Mederer, D., Kattenborn, T., **Cherif, E.**, Guimaraes-Steinicke, C., Joswig, J. S., Schneider, F. D. & Feilhauer, H. (2025). 
+*Communications Earth & Environment.*
+[[paper](https://www.nature.com/articles/s43247-025-02646-x)]
+
 **GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction**  
 **Eya Cherif**, Arthur Ouaknine, Luke A. Brown, Phuong D. Dao, Kyle R. Kovach, Bing Lu, Daniel Mederer, Hannes Feilhauer, Teja Kattenborn, David Rolnick.  
 *ArXiv 2025*  
