@@ -7,12 +7,12 @@ author_profile: true
 
 **Unraveling the seasonality of functional diversity through remote sensing**
 Mederer, D., Kattenborn, T., **Cherif, E.**, Guimaraes-Steinicke, C., Joswig, J. S., Schneider, F. D. & Feilhauer, H. (2025).
-*Communications Earth & Environment.*
+*Nature Communications Earth & Environment.*
 [[paper](https://www.nature.com/articles/s43247-025-02646-x)]
 
 **GreenHyperSpectra: A multi-source hyperspectral dataset for global vegetation trait prediction**  
 **Cherif, E.**, Ouaknine, A., Brown, L. A., Dao, P. D., Kovach, K. R., Lu, B., Mederer, D., Feilhauer, H., Kattenborn, T., Rolnick, D.  
-*ArXiv 2025*  
+*NeurIPS 2025*  
 [[paper](https://arxiv.org/abs/2507.06806)][[code](https://github.com/echerif18/HyspectraSSL)][[dataset](https://huggingface.co/datasets/Avatarr05/GreenHyperSpectra)]
 
 **Uncertainty assessment in deep learning-based plant trait retrievals from hyperspectral data.** 
