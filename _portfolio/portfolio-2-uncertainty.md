@@ -3,7 +3,6 @@ title: "Distance-Based Uncertainty Quantification for Deep Learning in Remote Se
 excerpt: "Biogeosciences 2026 | May 2023 – Feb 2026 | Leipzig University, ScaDS.AI, RSC4Earth"
 collection: portfolio
 ---
-## Distance-Based Uncertainty Quantification for Deep Learning in Remote Sensing
 **Biogeosciences 2026** | May 2023 – Feb 2026 | Leipzig University, ScaDS.AI, RSC4Earth
 
 Developed novel distance-based uncertainty quantification method (Dis_UN) for deep learning models applied to satellite imagery analysis. Addressed critical challenge of reliable uncertainty estimation when models encounter out-of-domain data (unseen regions, species, biomes, or scene components like clouds and water). Achieved 36% higher uncertainty contrast than traditional variance-based approaches while being 2.6-7.7× faster at inference.
