@@ -22,5 +22,3 @@ Created GreenHyperSpectra, a large-scale multi-source hyperspectral pretraining 
 - [Paper](https://openreview.net/forum?id=qFShB5OHAb)
 - [Code & Dataset](https://github.com/echerif18/HyspectraSSL)
 - [Conference Poster](https://neurips.cc/virtual/2025/loc/san-diego/poster/121449)
-
----
