@@ -1,7 +1,33 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Distance-Based Uncertainty Quantification for Deep Learning in Remote Sensing"
+excerpt: "Developed novel distance-based uncertainty quantification method (Dis_UN) for deep learning models applied to satellite imagery analysis. Addressed critical challenge of reliable uncertainty estimation when models encounter out-of-domain data (unseen regions, species, biomes, or scene components like clouds and water). Achieved 36% higher uncertainty contrast than traditional variance-based approaches while being 2.6-7.7× faster at inference.<br/>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Biogeosciences 2026** | May 2023 – Feb 2026 | Leipzig University, ScaDS.AI, RSC4Earth
+
+### Technical Highlights
+
+- Designed distance-based uncertainty estimation framework that quantifies prediction reliability by measuring dissimilarity in predictor space (spectral inputs) and embedding space (learned features)
+- Implemented FAISS-based nearest neighbor search for efficient dissimilarity computation in high-dimensional feature spaces
+- Developed 95-quantile regression model using residuals as proxy for worst-case prediction errors
+- Applied method to predict 6 plant traits from hyperspectral imagery
+- Evaluated performance on challenging out-of-domain scenarios: urban surfaces, bare ground, water bodies, clouds, and mixed pixels at 30m resolution
+
+### Technologies
+
+TensorFlow • Keras • FAISS • Python • Scikit-learn • Quantile Regression • Distance Metrics • KS Statistics
+
+### Key Results
+
+- **Performance:** 36% higher uncertainty contrast (KS distance: 0.648 vs. 0.475) for out-of-domain data including non-vegetation pixels
+- **Efficiency:** 2.6-7.7× faster inference requiring only single forward pass (vs. ensemble methods)
+- **Robustness:** No normality assumptions required - handles asymmetric errors
+- **Interpretability:** Uncertainty directly linked to training data dissimilarity
+
+### Links
+
+- [Preprint (Biogeosciences)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-1284/)
+- [Code](https://github.com/echerif18/Multi_trait_Uncertainty)
+
+---
