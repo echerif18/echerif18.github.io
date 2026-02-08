@@ -3,7 +3,6 @@ title: "GreenHyperSpectra: Self-Supervised Learning for Global Vegetation Monito
 excerpt: "NeurIPS 2025 | Feb 2024 – Dec 2025 | Mila - Quebec AI Institute, Leipzig University, ScaDS.AI"
 collection: portfolio
 ---
-## GreenHyperSpectra: Self-Supervised Learning for Global Vegetation Monitoring
 **NeurIPS 2025** | Feb 2024 – Dec 2025 | Mila - Quebec AI Institute, Leipzig University, ScaDS.AI
 
 Created GreenHyperSpectra, a large-scale multi-source hyperspectral pretraining dataset designed to enable label-efficient machine learning for global vegetation trait prediction. Developed self-supervised and semi-supervised learning methods that overcome critical challenges of label scarcity and domain shifts across sensors, ecosystems, and geographical regions.
