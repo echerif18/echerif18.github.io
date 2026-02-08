@@ -31,4 +31,3 @@ Multi-trait CNN models simultaneously predicted 20 vegetation properties from hy
 - [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0034425723001311)
 - [GitHub](https://github.com/echerif18/multiTraitPredictions)
 - [GitLab](https://gitlab.com/eya95/multi-traitretrieval)
----
