@@ -15,15 +15,11 @@ Developed novel deep learning architectures (DeepForest-1 and DeepForest-2) for 
 - Conducted extensive benchmarking against state-of-the-art models (U-Net, DeepLab) across multiple data scenarios (optical-only, SAR-only, multi-modal fusion)
 - Integrated models into ArcGIS Pro toolbox for operational use by environmental analysts and GIS professionals
 
-**Technologies:** TensorFlow, Keras, Python (NumPy, Pandas, Rasterio), ArcGIS Pro, Sentinel-1/2, AWS S3, Weakly Supervised Learning
+**Technologies:** TensorFlow, Keras, Python (NumPy, Pandas, Rasterio), ArcGIS Pro, Sentinel-1/2, AWS S3
 
 **Impact & Deployment:**
 - **Publication:** Remote Sensing (2022)
 - **Conference:** Presented at EGU 2020 (Remote)
-- **Industrial Deployment:** Integrated into Esri's ArcGIS Pro platform for operational use
-- **Class Performance:** Outperformed state-of-the-art on minority classes (3.4% improvement in F1 scores for underrepresented categories)
-- **Practical Application:** Amazon deforestation monitoring tools for environmental agencies, conservation organizations, and GIS analysts
-- **Multi-Modal Innovation:** Demonstrated value of combining SAR and optical data for cloud-prone tropical regions
 
 **Key Results:**
 DeepForest achieved 75% overall accuracy comparable to state-of-the-art U-Net and DeepLab models but significantly outperformed them on underrepresented classes critical for deforestation monitoring. Multi-modal fusion (SAR + optical) yielded F1 scores up to 85% for forest, savanna, and crops compared to 81.6% from DeepLab. Qualitative analysis revealed model predictions sometimes exceed the quality of noisy training labels, highlighting the robustness of the deep learning approach.
@@ -31,4 +27,3 @@ DeepForest achieved 75% overall accuracy comparable to state-of-the-art U-Net an
 **Links:**
 - [Paper](https://www.mdpi.com/2072-4292/14/19/5000)
 - [Code](https://github.com/echerif18/LandCoverClassification)
----
