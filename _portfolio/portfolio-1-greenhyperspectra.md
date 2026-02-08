@@ -17,10 +17,8 @@ Created GreenHyperSpectra, a large-scale multi-source hyperspectral pretraining 
 **Technologies:** PyTorch, Weights & Biases, Google Earth Engine, QGIS, Python, HPC Systems, Self-Supervised Learning
 
 **Impact:**
-- **Publication:** NeurIPS 2025 (top-tier AI conference, ~26% acceptance rate)
+- **Publication:** Presented and accepted at NeurIPS 2025
 - **Dataset Release:** Publicly available benchmark for vegetation trait prediction research
-- **Methodological Advancement:** First large-scale self-supervised pretraining dataset for hyperspectral vegetation analysis
-- **Applications:** Foundation models for precision agriculture, carbon stock estimation, biodiversity monitoring
 
 **Links:**
 - [Paper](https://openreview.net/forum?id=qFShB5OHAb)
