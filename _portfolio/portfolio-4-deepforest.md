@@ -15,6 +15,7 @@ Developed novel deep learning architectures (DeepForest-1 and DeepForest-2) for 
 **Institution:** Esri Deutschland GmbH
 
 **Status:** Published in Remote Sensing (2022)
+
 ---
 
 **Technical Highlights:**
