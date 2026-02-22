@@ -1,9 +1,9 @@
 ---
 title: "Multi-Trait Prediction from Hyperspectral Satellite Imagery"
-excerpt: "Remote Sensing of Environment 2023 | Jun 2021 – May 2023 | Leipzig University, ScaDS.AI, RSC4Earth"
+excerpt: "Jun 2021 – May 2023;    Leipzig University, ScaDS.AI, RSC4Earth;    **Remote Sensing of Environment 2023**"
 collection: portfolio
 ---
-**Remote Sensing of Environment 2023** | Jun 2021 – May 2023 | Leipzig University, ScaDS.AI, RSC4Earth
+Jun 2021 – May 2023;    Leipzig University, ScaDS.AI, RSC4Earth;    **Remote Sensing of Environment 2023**
 
 Developed multi-task deep learning models to simultaneously predict 20 vegetation parameters from hyperspectral satellite data across diverse ecosystems. Built end-to-end ML pipeline from heterogeneous data integration through model deployment, achieving state-of-the-art performance while being 20× more computationally efficient than existing approaches.
 
