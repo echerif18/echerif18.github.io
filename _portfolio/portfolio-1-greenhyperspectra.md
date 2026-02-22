@@ -1,6 +1,6 @@
 ---
 title: "GreenHyperSpectra: Self-Supervised Learning for Global Vegetation Monitoring"
-excerpt: "NeurIPS 2025 | Feb 2024 – Dec 2025 | Mila - Quebec AI Institute, Leipzig University, ScaDS.AI"
+excerpt: "NeurIPS 2025, Feb 2024 – Dec 2025, Mila - Quebec AI Institute, Leipzig University, ScaDS.AI"
 collection: portfolio
 ---
 **NeurIPS 2025** | Feb 2024 – Dec 2025 | Mila - Quebec AI Institute, Leipzig University, ScaDS.AI
