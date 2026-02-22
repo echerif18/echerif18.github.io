@@ -1,16 +1,23 @@
 ---
 title: "Reuse — AI Chatbot for Smart Recycling"
-excerpt: "Atos IT Challenge 2019 | Nov 2018 – May 2019 | Atos GmbH, Universität Passau"
+excerpt: "Nov 2018 – May 2019;    Atos GmbH, Universität Passau;    **Atos IT Challenge 2019**"
 collection: portfolio
 ---
-
 # ♻️ Reuse — AI Chatbot for Smart Recycling
 
 ## 📌 Overview
 **Reuse** is an AI-powered chatbot that helps users transform everyday waste into reusable objects.  
 It combines image recognition, machine learning, and conversational AI to provide personalized reuse ideas and sustainability guidance.
 
-The project was developed for the **Atos IT Challenge 2019**, where the team reached the finalist stage.
+<!-- The project was developed for the **Atos IT Challenge 2019**, where the team reached the finalist stage. -->
+
+**Type:** Competition Project
+
+**Duration:** November 2018 - May 2019
+
+**Competition:** Atos IT Challenge 2019 - Machine Learning for Sustainability
+
+**Achievement:** Finalist
 
 ---
 
