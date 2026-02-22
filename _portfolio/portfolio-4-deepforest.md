@@ -1,11 +1,21 @@
 ---
 title: "DeepForest: Multi-Modal Deep Learning for Amazon Land Cover Classification"
-excerpt: "Remote Sensing 2022 | May 2020 – Dec 2020 | Esri Deutschland GmbH"
+excerpt: "May 2020 – Dec 2020    Esri Deutschland GmbH    **Remote Sensing 2022**"
 collection: portfolio
 ---
-**Remote Sensing 2022** | May 2020 – Dec 2020 | Esri Deutschland GmbH
+<!-- May 2020 – Dec 2020    Esri Deutschland GmbH    **Remote Sensing 2022** -->
 
+## 📌 Overview
 Developed novel deep learning architectures (DeepForest-1 and DeepForest-2) for automated land use and land cover (LULC) classification in the cloud-prone Amazon Basin using multi-temporal and multi-modal satellite data. Addressed critical challenges of labeled data scarcity through weakly supervised learning and optimized for underrepresented classes. Models achieved 75% overall accuracy and outperformed state-of-the-art approaches (U-Net, DeepLab) on minority classes, with F1 scores up to 85% for forest, savanna, and crop classification.
+
+**Type:** Master Thesis Project
+
+**Duration:** May 2020 – December 2020
+
+**Institution:** Esri Deutschland GmbH
+
+**Status:** Published in Remote Sensing (2022)
+---
 
 **Technical Highlights:**
 - Collected and preprocessed Sentinel-2 optical and Sentinel-1 SAR data
