@@ -3,9 +3,19 @@ title: "Multi-Trait Prediction from Hyperspectral Satellite Imagery"
 excerpt: "Jun 2021 – May 2023;    Leipzig University, ScaDS.AI, RSC4Earth;    **Remote Sensing of Environment 2023**"
 collection: portfolio
 ---
-Jun 2021 – May 2023;    Leipzig University, ScaDS.AI, RSC4Earth;    **Remote Sensing of Environment 2023**
-
+<!-- Jun 2021 – May 2023;    Leipzig University, ScaDS.AI, RSC4Earth;    **Remote Sensing of Environment 2023** -->
+## 📌 Overview
 Developed multi-task deep learning models to simultaneously predict 20 vegetation parameters from hyperspectral satellite data across diverse ecosystems. Built end-to-end ML pipeline from heterogeneous data integration through model deployment, achieving state-of-the-art performance while being 20× more computationally efficient than existing approaches.
+
+**Type:** PhD Research Project 
+
+**Duration:** June 2021 – May 2023 
+
+**Institution:** ScaDS.AI Leipzig, RSC4Earth 
+
+**Status:** Published in Remote Sensing of Environment (2023) 
+
+---
 
 **Technical Highlights:**
 - Compiled and harmonized heterogeneous dataset from multiple sensors and ecosystem types (7,000+ labeled samples across crops, forests, tundra, grasslands, shrublands)
@@ -25,6 +35,7 @@ Developed multi-task deep learning models to simultaneously predict 20 vegetatio
 - **Applications:** Models ready for deployment on satellite missions (EnMAP, PRISMA) for large-scale vegetation monitoring
 
 **Key Results:**
+
 Multi-trait CNN models simultaneously predicted 20 vegetation properties from hyperspectral reflectance. The approach significantly outperformed both single-trait CNNs (nRMSE improvement: 0.027–19.61%) and state-of-the-art PLSR models (nRMSE improvement: 1.94–40.07%) across diverse vegetation types and sensor configurations. The multi-task approach proved both computationally more efficient (single model vs. 20 separate models) and more accurate by leveraging trait co-variation.
 
 **Links:**
