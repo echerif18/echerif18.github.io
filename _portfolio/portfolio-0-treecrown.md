@@ -1,6 +1,6 @@
 ---
 title: "Tree Crown Segmentation from Airborne RGB & Hyperspectral Imagery"
-excerpt: "4 – 13 March 2025; Bootcamp project: Deep learning pipeline for tree crown segmentation"
+excerpt: "4 – 13 March 2026; **Bootcamp project**"
 collection: portfolio
 ---
 	
