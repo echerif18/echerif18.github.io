@@ -1,9 +1,9 @@
 ---
 title: "Tree Crown Segmentation from Airborne RGB & Hyperspectral Imagery"
-excerpt: "Deep learning pipeline for automated tree crown delineation using Attention U-Net, ViT U-Net, and SegFormer on NEON airborne data — with a Streamlit demo app and RAG-based ecological reporting."
+excerpt: "4 – 13 March 2025; Bootcamp project: Deep learning pipeline for tree crown segmentation"
 collection: portfolio
 ---
-
+	
 ## 📌 Overview
 
 Developed and benchmarked a suite of deep learning models for automated **tree crown segmentation** from airborne RGB and hyperspectral (HSI) imagery collected by the NEON Airborne Observation Platform across 13 US ecological sites. The project addresses a core challenge in remote sensing ecology: scalable, accurate delineation of individual tree canopies from high-resolution aerial data — enabling downstream applications in forest inventory, carbon stock estimation, and deforestation monitoring.
