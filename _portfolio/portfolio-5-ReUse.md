@@ -1,6 +1,6 @@
 ---
 title: "Reuse — AI Chatbot for Smart Recycling"
-excerpt: "Nov 2018 – May 2019;    Atos GmbH, Universität Passau;    **Atos IT Challenge 2019**"
+excerpt: "Nov 2018 – May 2019;    Atos GmbH,  Passau University;    **Atos IT Challenge 2019**"
 collection: portfolio
 ---
 # ♻️ Reuse — AI Chatbot for Smart Recycling
